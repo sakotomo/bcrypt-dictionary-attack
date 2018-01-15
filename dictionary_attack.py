@@ -1,3 +1,5 @@
+# coding:utf-8
+
 import time
 
 import hashing_sha256 as sha256
